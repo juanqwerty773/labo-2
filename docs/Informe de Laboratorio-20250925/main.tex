@@ -1,0 +1,58 @@
+% !TeX program = pdflatex
+\documentclass[12pt,a4paper]{article}
+
+\input{preamble.tex}
+\input{latex_compat.tex} % Compatibilidad para contenido convertido (opcional pero útil)
+
+% ----------------- Metadatos del informe -----------------
+\newcommand{\titulo}{Informe de Laboratorio}
+\newcommand{\subtitulo}{Trabajo Práctico N° X}
+\newcommand{\materia}{Nombre de la materia}
+\newcommand{\fecha}{25 de septiembre de 2025}
+\newcommand{\grupo}{Grupo N° X}
+\newcommand{\autores}{Nombre Apellido1 \and Nombre Apellido2 \and Nombre Apellido3}
+\newcommand{\docente}{Nombre Docente/Docentes}
+% ---------------------------------------------------------
+
+\begin{document}
+
+% Portada
+\begin{titlepage}
+  \centering
+  {\Large \materia \par}
+  \vspace{1.5cm}
+  {\huge \bfseries \titulo \par}
+  \vspace{0.5cm}
+  {\Large \subtitulo \par}
+  \vspace{1.5cm}
+  {\large \grupo \par}
+  \vspace{1cm}
+  {\large \autores \par}
+  \vspace{1cm}
+  {\large Docente: \docente \par}
+  \vfill
+  {\large \fecha \par}
+\end{titlepage}
+
+\pagenumbering{roman}
+\tableofcontents
+%\listoffigures
+%\listoftables
+\clearpage
+\pagenumbering{arabic}
+
+% Secciones
+\input{sections/resumen.tex}
+\input{sections/introduccion.tex}
+\input{sections/marco_teorico.tex}
+\input{sections/materiales_y_metodos.tex}
+\input{sections/resultados.tex}
+\input{sections/analisis_y_discusion.tex}
+\input{sections/conclusiones.tex}
+%\input{sections/trabajo_futuro.tex}
+\input{sections/anexos.tex}
+
+% Bibliografía
+\printbibliography
+
+\end{document}
