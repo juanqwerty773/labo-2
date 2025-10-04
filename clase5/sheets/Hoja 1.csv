@@ -1,6 +1,6 @@
-frecuencia GF (Hz),frecuencia Osciloscopio (Hz),Vpp Gf(V),Vpp osciloscopiob (V),frecuencia teorica (Hz),modo
-40.12,40.06,10,10.2,40.12,1.0
-80.24,80.38,10,10.4,80.24,2.0
-118.36,118.4,,,120.36,3.0
-157.4,157.2,,,160.5,4.0
-195.61,195.3,,,200.6,5.0
+frecuencia GF (Hz);frecuencia Osciloscopio (Hz);Vpp Gf(V);Vpp osciloscopiob (V);frecuencia teorica (Hz);modo
+40,12;40,06;10;10,2;40,12;1
+80,24;80,38;10;10,4;80,24;2
+118,36;118,4;;;120,36;3
+157,4;157,2;;;160,5;4
+195,61;195,3;;;200,6;5
