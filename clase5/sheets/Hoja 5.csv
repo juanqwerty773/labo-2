@@ -1,5 +1,5 @@
 frecuencia GF (Hz),frecuencia Osciloscopio (Hz),Vpp Gf(V),Vpp osciloscopiob (V),frecuencia teorica (Hz),modo,peso_porta peso(gr),escala Vpp(V),escala_tiempo(ms)
-497,4965,,,486,1,,,
+497,4965,10,104,486,1,9046,5,5
 10048,1006,,,9718,2,,,
 14877,1488,,,14577,3,,,
 19636,196,,,19436,4,,,
