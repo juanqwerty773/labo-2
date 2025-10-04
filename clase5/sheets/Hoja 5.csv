@@ -1,6 +1,6 @@
-frecuencia GF (Hz),frecuencia Osciloscopio (Hz),Vpp Gf(V),Vpp osciloscopiob (V),frecuencia teorica (Hz),modo,peso_porta peso(gr),escala Vpp(V),escala_tiempo(ms)
-49.7,49.65,10,10.4,48.6,1.0,90.46,5,5
-100.48,100.6,,,97.18,2.0,,,
-148.77,148.8,,,145.77,3.0,,,
-196.36,196.0,,,194.36,4.0,,,
-244.95,245.0,,,242.95,5.0,,,
+frecuencia GF (Hz);frecuencia Osciloscopio (Hz);Vpp Gf(V);Vpp osciloscopiob (V);frecuencia teorica (Hz);modo;peso_porta peso(gr);escala Vpp(V);escala_tiempo(ms)
+49,7;49,65;10;10,4;48,6;1;90,46;5;5
+100,48;100,6;;;97,18;2;;;
+148,77;148,8;;;145,77;3;;;
+196,36;196;;;194,36;4;;;
+244,95;245;;;242,95;5;;;
