@@ -1,6 +1,6 @@
-frecuencia GF (Hz);frecuencia Osciloscopio (Hz);Vpp Gf(V);Vpp osciloscopiob (V);frecuencia teorica (Hz);modo;peso_porta peso(gr);escala Vpp(V);escala_tiempo(ms);HILO TRANSPARENTE
-29,79;29,79;10;10,4;28,79;1;90,46;5;10;
-58,59;58,54;;;57,59;2;;;;
-87,39;87,41;;;86,39;3;;;;
-117,18;117,3;;;115,18;4;;;;
-146,1;146,1;;;143,1;5;;;;
+frecuencia GF (Hz),frecuencia Osciloscopio (Hz),Vpp Gf(V),Vpp osciloscopiob (V),frecuencia teorica (Hz),modo,peso_porta peso(gr),escala Vpp(V),escala_tiempo(ms),HILO TRANSPARENTE
+29.79,29.79,10,10.4,28.79,1,90.46,5,10,
+58.59,58.54,,,57.59,2,,,,
+87.39,87.41,,,86.39,3,,,,
+117.18,117.3,,,115.18,4,,,,
+146.1,146.1,,,143.1,5,,,,
